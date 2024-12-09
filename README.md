@@ -1,0 +1,1 @@
+Here the file that shows Porfolio which starts value is 10000 and does the investment in differnet assets and the weights are alwayed being year update . Means that at every end of the year the shares are selled and the new weighted which are assigned are being purchase
